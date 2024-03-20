@@ -46,8 +46,8 @@ public class RadioButtonFrame extends JFrame{
         
         
         radioGroup = new ButtonGroup();
-        radioGroup.add(italicJRadioButton);
-        radioGroup.add(boldItalicJRadioButton);
+        radioGroup.add(plainJRadioButton);
+        radioGroup.add(boldJRadioButton);
         radioGroup.add(italicJRadioButton);
         radioGroup.add(boldItalicJRadioButton);
         
